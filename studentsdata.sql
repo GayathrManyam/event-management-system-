@@ -1,0 +1,1 @@
+select * from studentsdata.students_data;
